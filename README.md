@@ -1,6 +1,6 @@
+![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEGqn1GLJ5a0g/profile-displaybackgroundimage-shrink_350_1400/0/1670512904843?e=1683158400&v=beta&t=N9xi6YA9ZctlidX7u2yNUOHSoHJLx-9WBQ3X940rgCw)
 # Hi there 👋, I'm Abdullah Al Mubin
 ## Full Stack Developer (MERN)
-![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEGqn1GLJ5a0g/profile-displaybackgroundimage-shrink_350_1400/0/1670512904843?e=1683158400&v=beta&t=N9xi6YA9ZctlidX7u2yNUOHSoHJLx-9WBQ3X940rgCw)
 
 Hi, I am Abdulah Al Mubin. I am a full-stack Developer. I have Completed My graduation at BSc in Engineering in Computer Science and Engineering from Bangladesh Army University of Engineering And Technology. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
 
