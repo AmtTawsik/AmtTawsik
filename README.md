@@ -4,7 +4,7 @@
 
 Hi, I am Abdulah Al Mubin. I am a full-stack Developer. I have Completed My graduation at BSc in Engineering in Computer Science and Engineering from Bangladesh Army University of Engineering And Technology. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
 
-Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 / Flowbite / Next JS / C# / C++ / Python / PHP / Django / Vue JS / NUXT JS
+####Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 / Flowbite / Next JS / C# / C++ / Python / PHP / Django / Vue JS / NUXT JS
 
 - 🔭 I’m currently working on Qualyval, London, England, UK. 
 - 🌱 I’m currently learning JavaScript, Vue JS, and NUXT. 
