@@ -2,7 +2,17 @@
 # Hi there 👋, I'm Abdullah Al Mubin
 ## Full Stack Developer (MERN)
 
-Hi, I am Abdulah Al Mubin. I am a full-stack Developer. I have Completed My graduation at BSc in Engineering in Computer Science and Engineering from Bangladesh Army University of Engineering And Technology. I am an ambitious web developer with the drive to strive for a higher platform. Skilled at problem-solving, complex functionalities, and designing. I am also a quick learner.
+Abdullah Al Mubin is a skilled MERN Stack Developer living in Natore, Bangladesh, with a passion for creating immersive user experiences. He is an expert at problem-solving, complex functionalities, and designing. He has demonstrated his abilities through his projects, which are built with cutting-edge technologies, and has received positive feedback from clients.
+
+Abdullah's expertise lies in HTML, CSS, JavaScript, React JS, Tailwind CSS, and Daisy UI. He is also comfortable with Bootstrap, Node JS, Express JS, MongoDB, Vue.js, Nuxt.js, Firebase, C#, and familiar with Python, C++, Redux, Django, SQL, PHP, Data Science, and Material-UI. He is proficient in using GitHub, VS Code, Atom, MS Office, Vercel, and Netlify.
+
+Abdullah completed his Bachelor of Science in Computer Science and Engineering from Bangladesh Army University of Engineering & Technology in Natore, Bangladesh. During his studies, he learned various skills such as Data Structure, Algorithm, DBMS, Computer Network, Computer Graphics, AI, Machine Learning, Data Mining, DSP, DIP, Software Engineering, OS, Microprocessors, and Micro-controllers, Assembly Language Programming, etc. He has also completed courses on Complete Web Development and Web Design.
+
+Abdullah's work experience includes an internship as a Junior Web Developer at Brain Station 23, Dhaka, Bangladesh, where he worked on developing web applications. Currently, he is working as a Full Stack Developer Intern at Qualyval, London, England, UK, where he has been contributing to the development of web applications using many technologies including MERN.
+
+Abdullah has worked on several Full Stack projects, including Horses-of-Past (Product resale with Payment), Photo Phactory (Provide Services & Get Reviews), and Skill Online (Education Services & Authentication). For the front end of these projects, he has used React JS, and for the back end, he has used Express JS. He has also used MongoDB for the database and Firebase for authentication. Abdullah has used Stripe to implement the payment system in Horses-of-Past. He has used Tailwind CSS to visually enhance the design of these projects, making them responsive and dynamic, enabling users to easily navigate the site.
+
+Apart from his technical skills, Abdullah possesses soft skills such as communication, problem-solving, critical thinking, teamwork, and leadership. He is a quick learner, adaptable, and always strives to learn new technologies to enhance his skills further. Abdullah's portfolio, LinkedIn, and GitHub profiles showcase his work and highlight his abilities and achievements.
 
 #### Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 / Flowbite / Next JS / C# / C++ / Python / PHP / Django / Vue JS / NUXT JS
 
