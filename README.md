@@ -1,6 +1,6 @@
 ![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEGqn1GLJ5a0g/profile-displaybackgroundimage-shrink_350_1400/0/1670512904843?e=1683158400&v=beta&t=N9xi6YA9ZctlidX7u2yNUOHSoHJLx-9WBQ3X940rgCw)
 # Hi there 👋, I'm Abdullah Al Mubin
-## Full Stack Developer (MERN)
+## Full Stack Developer (MERN) / Software Engineer
 
 Abdullah Al Mubin is a skilled MERN Stack Developer living in Natore, Bangladesh, with a passion for creating immersive user experiences. He is an expert at problem-solving, complex functionalities, and designing. He has demonstrated his abilities through his projects, which are built with cutting-edge technologies, and has received positive feedback from clients.
 
