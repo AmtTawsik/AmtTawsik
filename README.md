@@ -1,4 +1,5 @@
-![Full Stack Developer | Software Engineer](https://media.licdn.com/dms/image/D5616AQEGqn1GLJ5a0g/profile-displaybackgroundimage-shrink_350_1400/0/1670512904843?e=1683158400&v=beta&t=N9xi6YA9ZctlidX7u2yNUOHSoHJLx-9WBQ3X940rgCw)
+![Mubin](https://i.ibb.co/7Nhrr08/Blue-Modern-Photo-Technology-You-Tube-Banner-1.png)
+
 # Hi there 👋, I'm Abdullah Al Mubin
 ## Full Stack Developer (MERN & MEVN) / Software Engineer
 
@@ -24,9 +25,7 @@ Stay connected with Abdullah to witness his ongoing journey of innovation and cr
 - 🤔 I’m looking for help with your supports. 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: amttawsik.cse@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmtTawsik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-mubin-tawsik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amttawsik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amttawsik99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19963907/abdullah-al-mubin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCob99AkQrzqD4t-vrOxeksg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amt-portfolio.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01789098bfc0c5d23d)  
+ 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -37,8 +36,6 @@ Stay connected with Abdullah to witness his ongoing journey of innovation and cr
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmtTawsik&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AmtTawsik)  
-
-![Profile views](https://gpvc.arturio.dev/AmtTawsik)  
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
