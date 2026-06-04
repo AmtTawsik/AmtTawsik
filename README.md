@@ -1,63 +1,191 @@
 ![Mubin](https://i.ibb.co/7Nhrr08/Blue-Modern-Photo-Technology-You-Tube-Banner-1.png)
 
-# Hi there 👋, I'm Abdullah Al Mubin
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=Next.js&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/express-EEEEEE?style=flat-square&logo=express&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![mongoose](https://img.shields.io/badge/mongoose-EEEEEE?style=flat-square&logo=mongoose&logoColor=9F3232) ![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=fff) ![redux](https://img.shields.io/badge/redux-7A4FBD?style=flat-square&logo=redux&logoColor=fff) ![firebase](https://img.shields.io/badge/firebase-2177EA?style=flat-square&logo=firebase)
-## Full Stack Developer (MERN & MEVN) / Software Engineer
+<h1 align="center">Hi 👋, I'm Abdullah Al Mubin Tawsik</h1>
+<h3 align="center">Full Stack Engineer & Founder of AMT Stack 🚀</h3>
 
-Abdullah Al Mubin is a skilled Software Engineer residing in the beautiful city of Natore, Bangladesh. With a strong passion for creating immersive user experiences, Abdullah excels in problem-solving, complex functionalities, and design. He has garnered praise from clients for his exceptional projects, which leverage cutting-edge technologies.
-
-Abdullah's expertise spans a wide range of technologies, including HTML, CSS, JavaScript, React JS, Tailwind CSS, and Daisy UI. Additionally, he is comfortable working with Bootstrap, Node JS, Express JS, MongoDB, Vue.js, Nuxt.js, Firebase, C#, and possesses familiarity with Python, C++, Redux, Django, SQL, PHP, Data Science, and Material-UI. Abdullah is well-versed in using popular development tools such as GitHub, VS Code, Atom, MS Office, Vercel, and Netlify.
-
-Having completed his Bachelor of Science in Computer Science and Engineering from Bangladesh Army University of Engineering & Technology in Natore, Abdullah acquired a solid foundation in various subjects, including Data Structures, Algorithms, DBMS, Computer Networks, Computer Graphics, AI, Machine Learning, Data Mining, DSP, DIP, Software Engineering, OS, Microprocessors, Micro-controllers, Assembly Language Programming, and more. He further honed his skills through comprehensive courses on Complete Web Development and Web Design.
-
-Abdullah's professional journey includes an enriching internship as a Junior Web Developer at Brain Station 23 in Dhaka, Bangladesh. During this role, he actively contributed to the development of web applications. Then he started another internship at Qualyval as a Full Stack Developer. After finishing the 6 months of internship Currently, Abdullah serves as a Software Engineer at Qualyval, based in London, England, UK. In this position, he continues to make significant contributions to the development of web applications, utilizing a wide array of technologies, including the MERN stack.
-
-Abdullah has an impressive portfolio of Full Stack projects, including notable creations like Horses-of-Past (Product resale with Payment), Photo Phactory (Provide Services & Get Reviews), and Skill Online (Education Services & Authentication). These projects showcase Abdullah's mastery of React JS for front-end development, Express JS for back-end development, MongoDB for database management, and Firebase for authentication. Abdullah expertly implemented the payment system in Horses-of-Past using Stripe and employed Tailwind CSS to enhance the visual design, ensuring a responsive and dynamic user experience.
-
-In addition to his technical prowess, Abdullah possesses exceptional soft skills such as effective communication, problem-solving, critical thinking, teamwork, and leadership. He is a quick learner, adaptable, and constantly seeks opportunities to learn new technologies, striving to enhance his skills further. Abdullah's portfolio, LinkedIn profile, and GitHub repositories serve as a testament to his outstanding abilities and remarkable achievements.
-
-Stay connected with Abdullah to witness his ongoing journey of innovation and creativity in the world of web development!
-
-#### Skills: HTML5 / CSS3 / JavaScript / React / Express / Node / MongoDB / Tailwind CSS / Bootstrap5 / Flowbite / Next JS / C# / C++ / Python / PHP / Django / Vue JS / NUXT JS
-
-- 🔭 I’m currently working on Qualyval, London, England, UK. 
-- 🌱 I’m currently learning JavaScript, Vue JS, and NUXT. 
-- 👯 I’m looking to collaborate on Github, Linkedin, and Youtube. 
-- 🤔 I’m looking for help with your supports. 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: amttawsik.cse@gmail.com 
- 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmtTawsik)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmtTawsik)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmtTawsik&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AmtTawsik)  
-
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amttawsik&label=Profile%20views&color=0e75b6&style=flat" alt="amttawsik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amttawsik" alt="amttawsik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/amttawsik22" target="blank"><img src="https://img.shields.io/twitter/follow/amttawsik22?logo=twitter&style=for-the-badge" alt="amttawsik22" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amttawsik22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amttawsik22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-al-mubin-tawsik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-al-mubin-tawsik" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19963907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19963907" height="30" width="40" /></a>
-<a href="https://fb.com/abdullahalmubin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahalmubin97" height="30" width="40" /></a>
-<a href="https://instagram.com/amttawsik99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amttawsik99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@learncodingwithmubin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learncodingwithmubin" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://amtstack.com" target="_blank">
+    <img src="https://img.shields.io/badge/AMT%20Stack-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://mubin.amtstack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1B4FD8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdullah-al-mubin-tawsik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fiverr.com/mubintawsik" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="mailto:hello@amtstack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abdullahalmubin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahalmubin" /></a><a href="https://ko-fi.com/abdullahalmubin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abdullahalmubin" /></a></p><br><br>
+## 🧑‍💻 About Me
+
+- 🏢 **Founder & Lead Engineer** at [AMT Stack](https://amtstack.com) — Premium Software Engineering Company
+- 💼 **Software Engineer** at Air Valencia Tech (airvalencia.com OTA Platform)
+- 🌍 Delivered **25+ projects** for clients across **Bangladesh, UAE, UK, France & USA**
+- 📦 Published **[@amtstack/envmaster](https://npmjs.com/package/@amtstack/envmaster)** — AST-powered env variable toolkit
+- 🎓 **BSc in CSE** — Bangladesh Army University of Engineering & Technology
+- 🌱 Currently deep-diving into **LangChain, RAG & AI-powered applications**
+- 🇧🇩 Based in **Natore, Bangladesh**
+
+---
+
+## 🚀 Open Source
+
+### [@amtstack/envmaster](https://npmjs.com/package/@amtstack/envmaster) 🌌
+> The ultimate environment variable toolkit for modern JS/TS apps.
+
+Unlike regex-based tools, EnvMaster uses an **AST-powered compiler engine** to read your code exactly like Node.js does — guaranteeing 100% accuracy for env variable discovery, validation & security auditing.
+
+```bash
+# Try it instantly — no install needed
+npx @amtstack/envmaster doctor
+```
+
+[![npm](https://img.shields.io/npm/v/@amtstack/envmaster?style=flat-square&color=CB3837&logo=npm)](https://npmjs.com/package/@amtstack/envmaster)
+[![docs](https://img.shields.io/badge/docs-envmaster.amtstack.com-1B4FD8?style=flat-square)](https://envmaster.amtstack.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-EEEEEE?style=flat-square&logo=express&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2177EA?style=flat-square&logo=firebase)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Payment**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![bKash](https://img.shields.io/badge/bKash-E2136E?style=flat-square&logoColor=white)
+![SSLCOMMERZ](https://img.shields.io/badge/SSLCOMMERZ-00A651?style=flat-square&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Founder & Lead Engineer | [AMT Stack](https://amtstack.com) | 2025 – Present |
+| Software Engineer | Air Valencia Tech (airvalencia.com) | 2024 – Present |
+| Software Engineer | Qualyval, London UK (Remote) | 2022 – 2024 |
+| Lead Frontend Developer | Air Valencia | Previous |
+| Frontend Developer | Mustaruusu Technology, Dublin (Remote) | Previous |
+| Freelance Developer | [Fiverr](https://fiverr.com/mubintawsik) ⭐ 4.7 | 2022 – Present |
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [AMT Stack](https://amtstack.com) | Premium software engineering company | Next.js, Tailwind |
+| [EnvMaster](https://envmaster.amtstack.com) | AST-powered env variable toolkit | TypeScript, Node.js |
+| airvalencia.com | Enterprise OTA Platform (flights, hotels, visa) | React, Next.js |
+| AinSohay | AI-powered legal document assistant | Next.js, Gemini AI |
+| Fashion E-commerce | Full-stack clothing store with bKash/Nagad | Next.js 16, Prisma 6 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmtTawsik&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AmtTawsik&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmtTawsik&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmtTawsik&theme=tokyonight&column=7" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abdullah-al-mubin-tawsik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://fiverr.com/mubintawsik" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
+<a href="https://fb.com/abdullahalmubin97" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/19963907" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://wa.me/8801779866210" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/abdullahalmubin">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/abdullahalmubin">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amttawsik&label=Profile%20views&color=1B4FD8&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"We Build Systems That Work While You Sleep." — AMT Stack</i>
+</p>
